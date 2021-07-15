@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T18:24:01.121Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Yfh3OPy2BMVdCwu6hImm" version="14.8.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-15T18:26:25.081Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jMbzGOJGq6Pza1MEpu44" version="14.8.6" type="github" pages="4">
   <diagram id="gtDUkcSWrESbw5Lg5LmW" name="Page-4">
     <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -97,25 +97,25 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="205" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="355" y="190" />
+              <mxPoint x="540" y="190" />
               <mxPoint x="455" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NpHuEWvjegk_j8p4NuT1-1" value="ECG (3 channels, 400 pts)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#000000;fontColor=#000000;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="250" y="120" width="210" height="40" as="geometry" />
+          <mxGeometry x="435" y="120" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NpHuEWvjegk_j8p4NuT1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#242424;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NpHuEWvjegk_j8p4NuT1-3" target="NpHuEWvjegk_j8p4NuT1-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="190" />
+              <mxPoint x="320" y="190" />
               <mxPoint x="455" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NpHuEWvjegk_j8p4NuT1-3" value="Last 400 R predicitions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;fontSize=16;fontColor=#000000;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="480" y="120" width="180" height="40" as="geometry" />
+          <mxGeometry x="230" y="120" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NpHuEWvjegk_j8p4NuT1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontColor=#000000;strokeColor=#242424;strokeWidth=3;" parent="1" source="NpHuEWvjegk_j8p4NuT1-6" target="NpHuEWvjegk_j8p4NuT1-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -189,8 +189,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="520" />
-              <mxPoint x="120" y="100" />
-              <mxPoint x="570" y="100" />
+              <mxPoint x="120" y="90" />
+              <mxPoint x="320" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
