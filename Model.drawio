@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T13:09:30.615Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="K-vnAoLwWEiHiOps0vF_" version="14.9.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-08-10T13:11:17.900Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_3rX0lJdaeM5GVuGwLXO" version="14.9.4" type="github" pages="5">
   <diagram id="gtDUkcSWrESbw5Lg5LmW" name="V1">
     <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="0">
       <root>
@@ -270,16 +270,16 @@
         <mxCell id="af7ieakP4j-knueIzLfb-5" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#000000;fontColor=#000000;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="750" y="135" width="82" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="af7ieakP4j-knueIzLfb-6" value="Root network" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="af7ieakP4j-knueIzLfb-6" value="Root network" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="842" y="135" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="af7ieakP4j-knueIzLfb-8" value="Time consistancy network" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="842" y="165" width="150" height="20" as="geometry" />
+        <mxCell id="af7ieakP4j-knueIzLfb-8" value="Time consistancy network" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="842" y="165" width="198" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="af7ieakP4j-knueIzLfb-9" value="Data transfer between two usage" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="842" y="195" width="180" height="20" as="geometry" />
+        <mxCell id="af7ieakP4j-knueIzLfb-9" value="Data transfer between two uses" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="842" y="195" width="248" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="af7ieakP4j-knueIzLfb-10" value="Concatenate layers" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="af7ieakP4j-knueIzLfb-10" value="Concatenate layers" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="842" y="225" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
@@ -429,10 +429,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="532" y="550" />
-              <mxPoint x="850" y="550" />
-              <mxPoint x="850" y="340" />
-              <mxPoint x="685" y="340" />
+              <mxPoint x="533" y="550" />
+              <mxPoint x="780" y="550" />
+              <mxPoint x="780" y="350" />
+              <mxPoint x="685" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -575,23 +575,23 @@
         <mxCell id="eD90RHNRJaOkpoaxQAUv-26" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#000000;fontColor=#000000;fontSize=16;strokeWidth=2;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
           <mxGeometry x="708" y="140" width="82" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eD90RHNRJaOkpoaxQAUv-27" value="Root network" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
+        <mxCell id="eD90RHNRJaOkpoaxQAUv-27" value="Root network" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;fontSize=16;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
           <mxGeometry x="800" y="140" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eD90RHNRJaOkpoaxQAUv-28" value="White box network&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
-          <mxGeometry x="800" y="170" width="110" height="20" as="geometry" />
+        <mxCell id="eD90RHNRJaOkpoaxQAUv-28" value="White box network&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;fontSize=16;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
+          <mxGeometry x="800" y="170" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eD90RHNRJaOkpoaxQAUv-29" value="Time consistancy network" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
-          <mxGeometry x="800" y="200" width="150" height="20" as="geometry" />
+        <mxCell id="eD90RHNRJaOkpoaxQAUv-29" value="Time consistancy network" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;fontSize=16;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
+          <mxGeometry x="800" y="200" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eD90RHNRJaOkpoaxQAUv-30" value="Data transfer between two usage" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
-          <mxGeometry x="800" y="230" width="180" height="20" as="geometry" />
+        <mxCell id="eD90RHNRJaOkpoaxQAUv-30" value="Data transfer between two uses" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;fontSize=16;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
+          <mxGeometry x="800" y="230" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eD90RHNRJaOkpoaxQAUv-31" value="Concatenate layers" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
+        <mxCell id="eD90RHNRJaOkpoaxQAUv-31" value="Concatenate layers" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;fontSize=16;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
           <mxGeometry x="800" y="260" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eD90RHNRJaOkpoaxQAUv-32" value="&lt;h1&gt;White feature list :&lt;/h1&gt;&lt;div&gt;- average&amp;nbsp;(1 per channels)&lt;/div&gt;&lt;div&gt;- R spikes&amp;nbsp;amplitude (1 per channels)&lt;/div&gt;&lt;div&gt;- ECG R spikes orientation (up = 0, down = 1)&lt;/div&gt;&lt;div&gt;- period average&lt;/div&gt;&lt;div&gt;- period variance&lt;/div&gt;&lt;div&gt;- time since last R spike&lt;/div&gt;&lt;div&gt;- date prediction of the next R wave&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;align=left;verticalAlign=middle;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
-          <mxGeometry x="1010" y="120" width="330" height="190" as="geometry" />
+        <mxCell id="eD90RHNRJaOkpoaxQAUv-32" value="&lt;h1&gt;White feature list :&lt;/h1&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;- average&amp;nbsp;(1 per channels)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;- R spikes&amp;nbsp;amplitude (1 per channels)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;- ECG R spikes orientation (up = 0, down = 1)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;- period average&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;- period variance&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;- time since last R spike&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;- date prediction of the next R wave&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=5;hachureGap=-1;fontColor=#000000;align=left;verticalAlign=middle;" vertex="1" parent="431sgqMIX4FcuL99vFe4-1">
+          <mxGeometry x="840" y="340" width="440" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
