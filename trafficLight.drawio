@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T15:04:42.647Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="AJMXYTg7Ag2TH5cQbfaL" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T15:07:53.876Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="B9Z8Gd4Sin0Yr9nZsvI7" version="14.9.6" type="github">
   <diagram id="tw1KVGJCEJH6XealNRDl" name="Page-1">
-    <mxGraphModel dx="3076" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="3327" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,20 +18,26 @@
             <mxPoint x="440" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BJtlKTSVSHOVHCUKHhO6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-3" target="BJtlKTSVSHOVHCUKHhO6-11">
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-31" target="BJtlKTSVSHOVHCUKHhO6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-3" target="BJtlKTSVSHOVHCUKHhO6-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-3" value="Simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-5" value="Graph of the city" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-7" target="BJtlKTSVSHOVHCUKHhO6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-7" value="Car trajectory / speed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-9" target="BJtlKTSVSHOVHCUKHhO6-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-9" value="Deep Reinforcement Learning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
@@ -39,14 +45,14 @@
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-11" target="BJtlKTSVSHOVHCUKHhO6-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJtlKTSVSHOVHCUKHhO6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-11" target="BJtlKTSVSHOVHCUKHhO6-22">
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-11" target="BJtlKTSVSHOVHCUKHhO6-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-11" value="Car system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-13" value="Kinds of Car" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="-10" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-16" target="BJtlKTSVSHOVHCUKHhO6-1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,7 +67,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-22" value="Car&#39;s traffic laws" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-27" target="BJtlKTSVSHOVHCUKHhO6-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-27" value="Implementation of epoch system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-29" value="Neural Network Implementation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-31" value="Traffic Light system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
