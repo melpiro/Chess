@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T15:31:17.524Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="bsG4ZNG0OuG8h3uetYmO" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T15:31:44.380Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="v4KE21ZDShqk6Gpwh4_v" version="14.9.6" type="github">
   <diagram id="tw1KVGJCEJH6XealNRDl" name="Page-1">
     <mxGraphModel dx="3685" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-31" value="Traffic Light system" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=17;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-34" target="BJtlKTSVSHOVHCUKHhO6-36">
           <mxGeometry relative="1" as="geometry" />
