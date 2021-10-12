@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T15:17:26.137Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Qzb7S2efd6uLEm4MVk4z" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T15:20:34.848Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="K9GlwBGILya0zRHucqY_" version="14.9.6" type="github">
   <diagram id="tw1KVGJCEJH6XealNRDl" name="Page-1">
-    <mxGraphModel dx="3327" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="4498" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,8 +114,17 @@
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-43" target="BJtlKTSVSHOVHCUKHhO6-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJtlKTSVSHOVHCUKHhO6-43" value="Real life implementation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=17;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-43" target="BJtlKTSVSHOVHCUKHhO6-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-43" target="BJtlKTSVSHOVHCUKHhO6-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-43" value="Intersection" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="650" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="BJtlKTSVSHOVHCUKHhO6-45" target="BJtlKTSVSHOVHCUKHhO6-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-45" value="End of AI training" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="650" y="210" width="120" height="60" as="geometry" />
@@ -125,6 +134,12 @@
         </mxCell>
         <mxCell id="BJtlKTSVSHOVHCUKHhO6-49" value="Simulation overview" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1210" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-54" value="Cameras" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJtlKTSVSHOVHCUKHhO6-56" value="Sensors" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
